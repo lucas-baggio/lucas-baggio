@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=gokudbzssj7&color=006bed)
+![](https://komarev.com/ghpvc/?username=lucas-baggio&color=006bed)
 
 ## Sobre mim
 
@@ -32,8 +32,8 @@
 
 <br/>
 
-<a href="https://github.com/gokudbzssj7" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gokudbzssj7&theme=dracula&show_icons=true" />
+<a href="https://github.com/lucas-baggio" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-baggio&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
