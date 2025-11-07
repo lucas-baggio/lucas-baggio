@@ -32,12 +32,8 @@
 
 <br/>
 
-<a href="https://github.com/lucas-baggio" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-baggio&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucasbaggios)](www.linkedin.com/in/lucasbaggios)
 [![Gmail Badge](https://img.shields.io/badge/-lucas.baggio.silva@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.baggio.silva@gmail.com)](mailto:lucas.baggio.silva@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/gokudbzssj7?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/GokuDBZSSJ7))
+[![GitHub](https://img.shields.io/github/followers/gokudbzssj7?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/lucas-baggio))
