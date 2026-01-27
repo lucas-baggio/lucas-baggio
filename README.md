@@ -1,39 +1,57 @@
-![](https://komarev.com/ghpvc/?username=lucas-baggio&color=006bed)
+# Lucas Baggio
+**Software Engineer | Laravel & Spring Boot Specialist**
 
-## Sobre mim
+Engenheiro de Software focado no desenvolvimento de sistemas escaláveis e arquiteturas robustas. Experiência na construção de ecossistemas backend utilizando PHP (Laravel) e Java (Spring Boot), priorizando a manutenibilidade através de Testes Automatizados, TDD e Clean Architecture.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Unifunec.
-- 🌱 Aprendendo mais sobre Desenvolvimento Full Stack e Testes de software.
+Atuação no ciclo completo de desenvolvimento, desde a modelagem de dados até a estratégia de monitoramento e observabilidade de infraestrutura.
 
-## Minhas Skills
+---
 
-**Aplicações e dados**
+### Stack Tecnológica
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Backend & Core**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend & Mobile**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+**DevOps & Data**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Ferramentas de desenvolvimento**
+---
 
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+### Atuação Profissional e Domínio Técnico
 
-<br/>
+* **Desenvolvimento de Sistemas Críticos:** Foco em arquiteturas escaláveis utilizando Clean Architecture e padrões SOLID.
+* **Qualidade e Confiabilidade:** Implementação de suítes de testes automatizados e fluxos de CI/CD.
+* **Observabilidade:** Configuração de monitoramento e análise de métricas para garantir alta disponibilidade de serviços.
+* **Ecossistema SaaS:** Experiência no desenvolvimento de plataformas para gestão comercial, logística e ERPs.
 
-## Onde me encontrar
+---
 
-[![Linkedin](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucasbaggios)](www.linkedin.com/in/lucasbaggios)
-[![Gmail Badge](https://img.shields.io/badge/-lucas.baggio.silva@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.baggio.silva@gmail.com)](mailto:lucas.baggio.silva@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/gokudbzssj7?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/lucas-baggio))
+### Estatísticas e Atividade
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-baggio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-baggio&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbaggios)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.baggio.silva@gmail.com)
+
+---
