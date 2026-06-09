@@ -1,86 +1,105 @@
-# Lucas Baggio  
-### Software Engineer | Backend Architect | Systems Builder  
+<div align="center">
 
-Engenheiro de Software especializado na construção de **sistemas robustos, escaláveis e orientados a domínio**.
+# Lucas Baggio
 
-Atuo principalmente com **Laravel** e **Spring Boot**, projetando arquiteturas backend com foco em:
+### Software Engineer | Laravel • Angular • TypeScript • PHP
 
-- previsibilidade  
-- testabilidade  
-- isolamento de domínio  
-- observabilidade real de produção  
+Building scalable, maintainable and reliable software solutions.
 
-Meu trabalho vai além de escrever código. Eu estruturo sistemas para sobreviverem ao crescimento.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Baggio-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucasbaggios)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lucas.baggio.silva@gmail.com)
 
-Tenho experiência no ciclo completo de desenvolvimento — da modelagem estratégica de domínio até a instrumentação de métricas e monitoramento em ambientes produtivos.
+</div>
 
 ---
 
-## 🧠 Mentalidade de Engenharia
+## About Me
 
-- Arquitetura guiada por domínio (DDD quando necessário)
-- Clean Architecture aplicada de forma pragmática
-- SOLID como ferramenta, não dogma
-- Testes automatizados como contrato de segurança
-- Observabilidade como requisito, não “extra”
+Software Engineer focused on building scalable, maintainable, and reliable web applications.
 
----
+My primary stack is **Laravel** and **Angular**, and I enjoy designing systems that remain easy to evolve as business requirements grow. I believe good software is not only about delivering features but also about creating solutions that are understandable, maintainable, and resilient in production.
 
-## 🚀 Stack Tecnológica
-
-### Backend & Core
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend & Mobile
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Infraestrutura & Dados
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+I have experience developing and evolving real-world systems, working across the entire software lifecycle—from requirements analysis and architecture decisions to deployment and maintenance.
 
 ---
 
-## 🏗️ Áreas de Experiência
+## Tech Stack
 
-### Sistemas Comerciais e ERPs
-Arquitetura e manutenção de plataformas de gestão empresarial, com foco em integridade transacional, consistência de dados e escalabilidade.
+### Backend
 
-### Sistemas para Ambiente Escolar
-Desenvolvimento e implantação de soluções utilizadas em escolas públicas, incluindo controle remoto de máquinas e distribuição automatizada de conteúdo.
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-### Arquiteturas Escaláveis
-Aplicação de padrões de separação de camadas, testes automatizados e monitoramento contínuo para reduzir acoplamento e risco operacional.
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Databases & Infrastructure
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### Additional Experience
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge\&logo=electron\&logoColor=white)
 
 ---
 
-## 🎯 O Que Me Diferencia
+## Currently Working On
 
-- Penso primeiro em arquitetura, depois em framework.
-- Assumo responsabilidade por sistemas em produção.
-- Entendo backend como produto, não apenas como API.
-- Construo pensando na manutenção futura.
-
----
-
-## 📊 Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://streak-stats.demolab.com?user=lucas-baggio&theme=tokyonight" />
-</p>
+* SaaS applications with Laravel
+* Angular frontends
+* Software Architecture
+* Dockerized environments
+* System integrations and APIs
 
 ---
 
-## 📫 Contato
+## Engineering Mindset
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbaggios)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.baggio.silva@gmail.com)
+* Pragmatic software architecture
+* Clean and maintainable code
+* Scalable system design
+* Automated testing when it adds value
+* Performance and reliability in production
+* Long-term maintainability over short-term fixes
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-baggio&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-baggio&layout=compact&theme=tokyonight" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=lucas-baggio&theme=tokyonight" />
+
+</div>
+
+---
+
+## Contact
+
+📧 **Email:**
+[lucas.baggio.silva@gmail.com](mailto:lucas.baggio.silva@gmail.com)
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/lucasbaggios
+
+🐙 **GitHub:**
+https://github.com/lucas-baggio
+
+---
+
+⭐ Always learning, always building.
