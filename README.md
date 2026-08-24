@@ -1,141 +1,223 @@
 <div align="center">
 
-# Lucas Baggio
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:6C5CE7,100:00D9FF&height=220&section=header&text=Lucas%20Baggio&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20C%23%20%7C%20.NET%20%7C%20Laravel%20%7C%20Angular&descAlignY=58&descSize=18" width="100%" />
 
-### Software Engineer | C# • .NET • Laravel • Angular • TypeScript
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+%7C+Architecture+%7C+APIs;C%23+%2B+.NET+%7C+Laravel+%2B+PHP;Construindo+software+feito+para+evoluir." alt="Typing SVG" />
+</a>
 
-Desenvolvendo soluções de software escaláveis, sustentáveis e confiáveis.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Baggio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbaggios)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.baggio.silva@gmail.com)
+<a href="https://www.linkedin.com/in/lucasbaggios">
+<img src="https://img.shields.io/badge/LinkedIn-Lucas_Baggio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:lucas.baggio.silva@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/lucas-baggio">
+<img src="https://img.shields.io/badge/GitHub-lucas--baggio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## Sobre mim
+## `> whoami`
 
-Sou Software Engineer com experiência no desenvolvimento de aplicações web, APIs e sistemas de negócio.
+Sou **Software Engineer** com experiência no desenvolvimento de aplicações web, APIs e sistemas de negócio.
 
-Atualmente, meu foco está em **C# e .NET**, estudando e desenvolvendo soluções utilizando o ecossistema moderno da plataforma, com foco em **ASP.NET Core, arquitetura de software, APIs REST, Clean Architecture e boas práticas de desenvolvimento**.
+Atualmente, meu foco está em **C# e .NET**, explorando o ecossistema da plataforma com atenção especial a **ASP.NET Core, arquitetura de software, Clean Architecture, SOLID, APIs REST, persistência de dados e testes automatizados**.
 
-Possuo experiência profissional com **PHP e Laravel**, além de desenvolvimento frontend utilizando **Angular e TypeScript**.
+Tenho experiência profissional com **PHP e Laravel**, além de desenvolvimento frontend utilizando **Angular e TypeScript**.
 
-Gosto de construir sistemas que sejam fáceis de entender, manter e evoluir, buscando equilibrar qualidade técnica, simplicidade e necessidades do negócio.
+Meu objetivo é construir sistemas que sejam tecnicamente sólidos, fáceis de compreender e preparados para evoluir conforme o negócio cresce.
 
-Tenho experiência em diferentes etapas do ciclo de desenvolvimento de software, desde análise de requisitos e definição de soluções até desenvolvimento, integração, implantação e manutenção.
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  ROLE            Software Engineer                  │
+│  CURRENT FOCUS   C# / .NET                          │
+│  BACKEND         ASP.NET Core / Laravel             │
+│  FRONTEND        Angular / TypeScript               │
+│  DATABASE        PostgreSQL / MySQL                 │
+│  INFRA           Docker / Linux                     │
+│  ARCHITECTURE    Clean Architecture / SOLID         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
-## Tecnologias
+## `> current_status`
+
+<div align="center">
+
+### 🟢 Disponível para novas oportunidades
+
+**Foco atual**
+
+`C#` · `.NET` · `ASP.NET Core` · `Clean Architecture` · `PostgreSQL`
+
+**Estudando**
+
+`LINQ` · `Entity Framework Core` · `Testes` · `Mensageria` · `Arquitetura`
+
+</div>
+
+---
+
+## `> tech_stack`
 
 ### Backend
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,nodejs" />
+</div>
 
 ### Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=angular,ts,js,react,tailwind" />
+</div>
 
-### Banco de dados e infraestrutura
+### Banco de dados & Infraestrutura
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Experiência adicional
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,git,github" />
+</div>
 
 ---
 
-## Atualmente estudando e desenvolvendo
+## `> engineering_principles`
 
-- C#
-- .NET
-- ASP.NET Core
-- Clean Architecture
-- SOLID
-- Arquitetura de software
-- APIs REST
-- PostgreSQL
-- Docker
-- Testes automatizados
-- Integração entre sistemas
-- Desenvolvimento backend
-
----
-
-## Mentalidade de engenharia
-
-- Arquitetura de software pragmática
-- Código limpo e sustentável
-- Princípios SOLID
-- Separação de responsabilidades
-- Baixo acoplamento e alta coesão
-- Design orientado à manutenção
-- Testes automatizados quando agregam valor
-- Performance e confiabilidade
-- Evolução contínua dos sistemas
+```text
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│  ARCHITECTURE                                         │
+│  ├── Clean Architecture                               │
+│  ├── SOLID                                             │
+│  ├── Separation of Concerns                            │
+│  └── Low Coupling / High Cohesion                     │
+│                                                       │
+│  DEVELOPMENT                                          │
+│  ├── Clean Code                                       │
+│  ├── Automated Testing                                │
+│  ├── API Design                                       │
+│  └── Maintainability                                  │
+│                                                       │
+│  MINDSET                                              │
+│  ├── Pragmatism                                       │
+│  ├── Continuous Learning                              │
+│  ├── Performance                                      │
+│  └── Reliability                                      │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
 
 ---
 
-## Projetos
+## `> selected_projects`
 
-### DevQuest
+### 🎮 DevQuest
 
-Portfólio pessoal gamificado inspirado em RPGs.
+Portfólio pessoal gamificado inspirado em JRPGs.
 
-**Tecnologias:** React, TypeScript, TailwindCSS, Vite, Framer Motion, GSAP e Howler.
+**Stack:** React · TypeScript · Vite · TailwindCSS · Framer Motion · GSAP
 
----
+### ⚔️ Evolução
 
-### Evolução
+Sistema gamificado de acompanhamento pessoal desenvolvido com backend e frontend separados.
 
-Sistema pessoal de acompanhamento e evolução desenvolvido com arquitetura separada entre backend e frontend.
+**Stack:** Laravel · PHP · Angular · TypeScript · PostgreSQL · Docker
 
-**Backend:** Laravel, PHP e PostgreSQL  
-**Frontend:** Angular e TypeScript  
-**Infraestrutura:** Docker
+### 🧪 .NET Studies
 
----
+Projetos e experimentos voltados ao ecossistema C#/.NET.
 
-### Estudos em .NET
-
-Atualmente desenvolvendo projetos e exercícios utilizando o ecossistema **C#/.NET**, explorando conceitos de arquitetura, APIs, persistência de dados, LINQ, testes e boas práticas de engenharia de software.
+**Explorando:** ASP.NET Core · LINQ · Entity Framework Core · APIs · Clean Architecture · Testes
 
 ---
 
-## Contato
+## `> github_activity`
 
-📧 **E-mail**
+<div align="center">
 
-[lucas.baggio.silva@gmail.com](mailto:lucas.baggio.silva@gmail.com)
+<img src="./github-metrics.svg" width="100%" />
 
-💼 **LinkedIn**
+</div>
 
-[linkedin.com/in/lucasbaggios](https://www.linkedin.com/in/lucasbaggios)
+---
 
-🐙 **GitHub**
+## `> contribution_system`
 
-[github.com/lucas-baggio](https://github.com/lucas-baggio)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="./github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## `> currently_building`
+
+```text
+[████████████████████████████████] 100%
+
+C# / .NET
+ASP.NET Core
+Software Architecture
+Clean Architecture
+PostgreSQL
+Docker
+Automated Testing
+Distributed Systems
+```
+
+---
+
+## `> career_path`
+
+```text
+2021 ─────── Freelance Development
+               │
+               ▼
+2023 ─────── Professional PHP / Laravel
+               │
+               ▼
+2025 ─────── Full Stack Development
+               │
+               ▼
+2026 ─────── C# / .NET
+               │
+               ▼
+             ????
+```
+
+> The next commit is always being written.
 
 ---
 
 <div align="center">
 
-### Sempre aprendendo. Sempre construindo.
+## `> find_me`
+
+<a href="https://www.linkedin.com/in/lucasbaggios">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:lucas.baggio.silva@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=lucas-baggio&style=for-the-badge&color=6C5CE7&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<sub>Built with curiosity, code and too many tabs open.</sub>
 
 </div>
