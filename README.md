@@ -130,7 +130,26 @@ Meu objetivo é construir sistemas que sejam tecnicamente sólidos, fáceis de c
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/output/github-snake.svg" width="100%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/main/github-snake-dark.svg"
+  >
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="<https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/main/github-snake.svg>"
+  >
+
+  <img
+    src="<https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/main/github-snake.svg>"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  >
+
+</picture>
+
+</div>
 
 </div>
 
