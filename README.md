@@ -95,8 +95,8 @@ Meu objetivo é construir sistemas que sejam tecnicamente sólidos, fáceis de c
 │                                                       │
 │  ARCHITECTURE                                         │
 │  ├── Clean Architecture                               │
-│  ├── SOLID                                             │
-│  ├── Separation of Concerns                            │
+│  ├── SOLID                                            │
+│  ├── Separation of Concerns                           │
 │  └── Low Coupling / High Cohesion                     │
 │                                                       │
 │  DEVELOPMENT                                          │
@@ -120,7 +120,7 @@ Meu objetivo é construir sistemas que sejam tecnicamente sólidos, fáceis de c
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/main/github-metrics.svg" width="100%">
+<img src="https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/main/github-metrics.svg" width="100%" alt="GitHub Metrics">
 
 </div>
 
@@ -130,26 +130,7 @@ Meu objetivo é construir sistemas que sejam tecnicamente sólidos, fáceis de c
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/main/github-snake-dark.svg"
-  >
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="<https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/main/github-snake.svg>"
-  >
-
-  <img
-    src="<https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/main/github-snake.svg>"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  >
-
-</picture>
-
-</div>
+<img src="https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/main/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
 
 </div>
 
