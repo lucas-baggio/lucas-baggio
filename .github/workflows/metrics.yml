@@ -13,23 +13,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate metrics
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+
           user: lucas-baggio
+
           template: classic
+
           base: header, activity, community, repositories, metadata
+
           config_timezone: America/Sao_Paulo
           config_padding: 10%
+
           optimize: svg
+
           filename: github-metrics.svg
 
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_analysis_timeout: 15
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -42,5 +47,10 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          plugin_repositories: yes
-          plugin_repositories_featured: lucas-baggio/devquest, lucas-baggio/evolucao
+      - name: Deploy Metrics
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: .
+          build_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

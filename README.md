@@ -116,33 +116,11 @@ Meu objetivo é construir sistemas que sejam tecnicamente sólidos, fáceis de c
 
 ---
 
-## `> selected_projects`
-
-### 🎮 DevQuest
-
-Portfólio pessoal gamificado inspirado em JRPGs.
-
-**Stack:** React · TypeScript · Vite · TailwindCSS · Framer Motion · GSAP
-
-### ⚔️ Evolução
-
-Sistema gamificado de acompanhamento pessoal desenvolvido com backend e frontend separados.
-
-**Stack:** Laravel · PHP · Angular · TypeScript · PostgreSQL · Docker
-
-### 🧪 .NET Studies
-
-Projetos e experimentos voltados ao ecossistema C#/.NET.
-
-**Explorando:** ASP.NET Core · LINQ · Entity Framework Core · APIs · Clean Architecture · Testes
-
----
-
 ## `> github_activity`
 
 <div align="center">
 
-<img src="./github-metrics.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/output/github-metrics.svg" width="100%" />
 
 </div>
 
@@ -152,11 +130,7 @@ Projetos e experimentos voltados ao ecossistema C#/.NET.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="./github-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/output/github-snake.svg" width="100%" />
 
 </div>
 
