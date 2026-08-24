@@ -120,7 +120,7 @@ Meu objetivo é construir sistemas que sejam tecnicamente sólidos, fáceis de c
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/output/github-metrics.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/lucas-baggio/lucas-baggio/main/github-metrics.svg" width="100%">
 
 </div>
 
